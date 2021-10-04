@@ -2,4 +2,9 @@
 
 ## Sayan - Competitive Coding Lead.
 
-## Sujana - CodeX Agent
+## Jaideep C - Mobile Development & Backend Lead.
+
+### Sujana - CodeX Agent
+
+### Sai Tarun - Agent
+
